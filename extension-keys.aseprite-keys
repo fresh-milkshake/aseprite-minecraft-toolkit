@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="MCToolkit3D" shortcut="Ctrl+Alt+3" />
+        <key command="MCToolkitHue" shortcut="Ctrl+Alt+H" />
+        <key command="MCToolkitExport" shortcut="Ctrl+Alt+E" />
+        <key command="MCToolkitRenderAdjacent" shortcut="Ctrl+Alt+A" />
+        <key command="MCToolkitIntermediateColors" shortcut="Ctrl+Alt+I" />
+    </commands>
+</keyboard> 

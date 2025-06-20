@@ -1,0 +1,23 @@
+{
+  "name": "mc-toolkit",
+  "displayName": "MC Toolkit",
+  "description": "Aseprite extension for Minecraft texture creators",
+  "version": "2.1.0",
+  "author": {
+    "name": "fresh-milkshake",
+    "url": "https://github.com/fresh-milkshake/aseprite-minecraft-toolkit"
+  },
+  "contributors": [],
+  "publisher": "mc-toolkit",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./extension.lua"
+      }
+    ]
+  }
+} 
