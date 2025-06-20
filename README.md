@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fresh-milkshake/aseprite-minecraft-toolkit/header.png" alt="MC Toolkit">
+  <img src="https://github.com/fresh-milkshake/aseprite-minecraft-toolkit/header.png?raw=true" alt="MC Toolkit">
 </div>
 
 **A comprehensive toolset for creating and editing Minecraft textures in Aseprite**
