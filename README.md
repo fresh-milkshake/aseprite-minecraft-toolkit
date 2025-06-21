@@ -5,7 +5,7 @@
 **A comprehensive toolset for creating and editing Minecraft textures in Aseprite**
 
 ![Version](https://img.shields.io/badge/Version-2.1.0-blue)
-![Aseprite](https://img.shields.io/badge/Aseprite-1.2.10+-green)
+![Aseprite](https://img.shields.io/badge/Aseprite-1.3+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
